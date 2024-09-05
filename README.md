@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/Shobika19/Shobika19/blob/main/web%20development.gif)
 <h1 align="center">Hi 👋, I'm Shobika</h1>
 <h3 align="center">Full-Stack Developer</h3>
-
+<img align="right" alt="coding" width="400" height="280" src="https://github.com/Shobika19/Shobika19/blob/main/girl.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shobika&label=Profile%20views&color=0e75b6&style=flat" alt="shobika" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shobika19](https://github.com/Shobika19)
